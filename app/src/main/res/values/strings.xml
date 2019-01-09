@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Temperature Unit Converter</string>
+    <string name="temperature">Temperature</string>
+    <string name="convert">Convert</string>
+    <string-array name="temp_array">
+        <item> °C to °F </item>
+        <item> °F to °C </item>
+    </string-array>
+</resources>
